@@ -1,0 +1,6 @@
+# Ignore specific files or folders
+filename_to_ignore.txt
+folder_to_ignore/
+
+# Ignore Git system files
+.git/
